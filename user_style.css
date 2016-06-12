@@ -1,0 +1,13 @@
+footer {
+     clear: both;
+}
+.table-style {
+    background-color: #ffffff !important;
+}
+.little-table {
+	font-size: 90% !important;
+}
+
+#check {
+	color: green;
+}
