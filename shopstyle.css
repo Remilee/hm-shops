@@ -1,0 +1,8 @@
+.shop_products {
+    background-color: #F5F5F5;
+}
+img {
+    border-radius: 100px; /* Радиус скругления */
+    border: 3px solid rgba(134, 134, 134, 0.34); /* Параметры рамки */
+    box-shadow: 0 0 7px rgba(102, 102, 102, 0.28); /* Параметры тени *
+}
